@@ -1,0 +1,27 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.0.1",
+    "static-server": "^2.2.1"
+  },
+  "dependencies": {
+    "pug": "^2.0.4",
+    "sass": "^1.23.7"
+  }
+}
